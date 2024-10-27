@@ -1,0 +1,40 @@
+body{
+    background-color: beige;
+}
+.title{
+    color : burlywood;
+    font-size: 26px;
+    font-weight: bolder;
+    text-align: center;
+}
+.myimage{
+    width: 400px;
+    height: 300px;
+    border: 2px solid black;
+    display: block;
+    margin: 0 auto;
+}
+.para{
+    font-style: italic;
+    font-size: 17px;
+}
+.title2{
+    color:lightgreen;
+    font-weight: bold;
+    font-size:20px;
+}
+.para2{
+    font-size: 17px;
+    font-style: italic;
+    font-weight: 600;
+}
+ul li {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color: rgb(0,0,0);
+}
+ol li{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color: rgb(0,0,0);
+}
